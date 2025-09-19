@@ -28,6 +28,6 @@
 This was a demanding but transformative phase. Moving from understanding concepts to applying them to multi-layered problems required intense focus over several days. The breakthrough on implementing the bisection search algorithm was particularly rewarding, moving from abstract understanding to a functional and efficient solution. This struggle was invaluable for developing true problem-solving skills, not just coding syntax.
 
 **Links to Work:**
-- [Problem Set 1 Solutions](./ps1a.py)
-- [Problem Set 1 Solutions](./ps1b.py)
-- [Problem Set 1 Solutions](./ps1c.py)
+- [Problem Set 1(a) Solutions](./ps1a.py)
+- [Problem Set 1(b) Solutions](./ps1b.py)
+- [Problem Set 1(c) Solutions](./ps1c.py)
