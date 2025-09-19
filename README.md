@@ -25,7 +25,7 @@
   - **Part C (`ps1c.py`):** **The capstone.** Implemented a bisection search algorithm to efficiently determine the optimal savings rate required to reach a down payment goal within 36 months. This required integrating all previous concepts and designing a logical search algorithm.
 
 **Thoughts:**
-This was a demanding but transformative phase. Moving from understanding concepts to applying them to multi-layered problems required intense focus over several days. The breakthrough on implementing the bisection search algorithm was particularly rewarding, moving from abstract understanding to a functional and efficient solution. This struggle was invaluable for developing true problem-solving skills, not just coding syntax.
+This was a demanding but transformative phase. Moving from understanding concepts to applying them to multi-layered problems required intense focus over several days. The breakthrough on implementing the bisection search algorithm was particularly rewarding, moving from abstract understanding to a functional and efficient solution. This struggle was invaluable for developing true problem-solving skills, not just coding syntax. 
 
 **Links to Work:**
 - [Problem Set 1(a) Solution](./ps1a.py)
