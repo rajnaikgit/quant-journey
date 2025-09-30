@@ -31,3 +31,9 @@ This was a demanding but transformative phase. Moving from understanding concept
 - [Problem Set 1(a) Solution](./ps1a.py)
 - [Problem Set 1(b) Solution](./ps1b.py)
 - [Problem Set 1(c) Solution](./ps1c.py)
+
+## Day 15 [September 30, 2025]: Getting Back on Track
+
+**Progress:** Resumed the MIT 6.0001 curriculum, completing Lectures 6 (Recursion & Dictionaries) and 7 (Debugging). Also established a daily workout routine to support long-term physical stamina and focus.
+
+**Thoughts:** The path is non-linear. The key is consistent recommitment.
